@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b8a196d.css",
+    "main.js": "/static/js/main.07820990.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/display.png": "/static/media/display.8c6a8437f56a5c888a9c.png",
+    "static/media/arj.jpg": "/static/media/arj.d5a481c78b4ba73d8a6f.jpg",
+    "static/media/background.jpg": "/static/media/background.9a1d5eab00cd94b7f27c.jpg",
+    "static/media/ieee-logo.png": "/static/media/ieee-logo.acfaf98dbe3baa276d79.png",
+    "static/media/resume.pdf": "/static/media/resume.0f4d732b6c1b42cccb1b.pdf",
+    "static/media/contact.jpg": "/static/media/contact.a741d2b0440a51c9d7f1.jpg",
+    "static/media/sql.svg": "/static/media/sql.68c8655ee4a0bef4ec99192c22346b09.svg",
+    "static/media/logo512.svg": "/static/media/logo512.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/tf.svg": "/static/media/tf.7a27db043183a5d3571e338ab500f742.svg",
+    "index.html": "/index.html",
+    "main.0b8a196d.css.map": "/static/css/main.0b8a196d.css.map",
+    "main.07820990.js.map": "/static/js/main.07820990.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b8a196d.css",
+    "static/js/main.07820990.js"
+  ]
+}
